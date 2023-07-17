@@ -1,0 +1,21 @@
+.ok {
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+	width: 100%;
+	padding: 12px;
+	background-color: #1e6;
+	color: #fff
+}
+.bad {
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: #a22;
+	color: #fff
+}
+
+.active{
+	border-radius: 15px;
+	background: rgba(214, 214, 214, 0.562);
+}
